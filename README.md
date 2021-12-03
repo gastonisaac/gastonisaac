@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gastonisaac
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @GastonRodriguez
+- 👀 I’m interested in ... la programacion
+- 🌱 I’m currently learning ...desde su origen
+- 💞️ I’m looking to collaborate on  cualquier proyecto
+- 📫 este es mi  Whatsapp 2612698806 / facebook:GastonIsaacR.
 
 <!---
 gastonisaac/gastonisaac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
